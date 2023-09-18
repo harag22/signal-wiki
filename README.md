@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Fix PNNX ubuntu -> linux bug (#7050)
